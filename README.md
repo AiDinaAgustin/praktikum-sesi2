@@ -1,1 +1,1 @@
-# praktikum-sesi2
+Hasil Praktikum Sesi 2
