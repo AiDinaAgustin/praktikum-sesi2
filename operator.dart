@@ -9,7 +9,6 @@ void main() {
   if (number3 != null) {
     result += number3;
   }
-  print(result);
 
   print('Hasil akhir adalah $result');
 }
